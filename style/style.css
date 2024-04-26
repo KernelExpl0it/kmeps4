@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+
+html {
+    background-color: #344955;
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 35px;
+    padding-top: 3vh;
+}
+
+.topic {
+    font-size: 30px;
+    padding-left: 3vw;
+}
+
+.links {
+    font-size: 30px;
+    margin-top: -1.5vh;
+    padding-left: 5vw;
+    color: grey;
+}
+
+.bottom {
+    padding-bottom: 4vh;
+}
+
+a {
+    text-decoration: none;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70vw;
+    height: auto;
+    background-color: #435B66;
+}
